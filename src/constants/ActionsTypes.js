@@ -1,0 +1,13 @@
+export const ADD_TODO = 'ADD_TODO';
+
+export const TOGGLE_TODO = 'TOGGLE_TODO';
+
+export const CHANGE_VISIBILITY = 'CHANGE_VISIBILITY';
+
+export const CHANGE_VISIBILITY_TODO = 'CHANGE_VISIBILITY_TODO';
+
+export const visibilityFillter = {
+    SHOW_ALL: 'SHOW_ALL',
+    SHOW_COMPLETED: 'SHOW_COMPLETED',
+    SHOW_ACTIVE: 'SHOW_ACTIVE'
+}
