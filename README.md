@@ -1,6 +1,6 @@
-What's a Container Component?
-What's a Presentational Component?
-[ref] https://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/
+- What's a Container Component?
+- What's a Presentational Component?
+- [ref] https://www.thegreatcodeadventure.com/the-react-plus-redux-container-pattern/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
